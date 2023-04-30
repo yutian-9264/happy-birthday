@@ -125,7 +125,7 @@ body {
 .six .hat {
   position: absolute;
   width: 80px;
-  top: -35px;
+  top: 30px;
   left: 41.5%;
   /* transform: scale(0.1); */
 }
@@ -304,7 +304,7 @@ body {
   width: 597px;
   height: 405px;
 
-  background-image: url(frame.png);
+  background-image: url(lll.jpg);
   background-position: center;
   background-size: cover; }
 
