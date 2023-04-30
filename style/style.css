@@ -297,3 +297,23 @@ body {
     font-weight: lighter;
   }
 }
+
+#frame {
+  position: relative;
+
+  width: 597px;
+  height: 405px;
+
+  background-image: url(frame.png);
+  background-position: center;
+  background-size: cover; }
+
+#myImg {
+  position: absolute;
+  left: 0;
+  top: 0;
+  right: 0;
+  bottom: 0;
+
+  display: block;
+  margin: auto; }
